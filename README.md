@@ -35,11 +35,11 @@
 ## 📊 Статистика моего GitHub
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumlgm&theme=monokai" alt="Статистика" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantumlgm&theme=monokai&exclude={exclude}" alt="Топ языки" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumlgm&theme=dracula" alt="Статистика" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantumlgm&theme=dracula&exclude={exclude}" alt="Топ языки" />
   </div>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumlgm&theme=monokai" alt="Детали профиля"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumlgm&theme=dracula" alt="Детали профиля"/>
 </div>
 
 <br/>
