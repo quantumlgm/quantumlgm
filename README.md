@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠 Мой стек технологий
+<h2 align="center">🛠 Мой стек технологий</h2>
 <div align="center">
   <br/>
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 Статистика моего GitHub
+<h2 align="center">📊 Статистика моего GitHub</h2>
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumlgm&theme=dracula" alt="Статистика" />
@@ -46,7 +46,7 @@
 
 ---
 
-## 📫 Связь со мной
+<h2 align="center">📫 Связь со мной</h2>
 <div align="center">
   <a href="https://github.com/quantumlgm" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;"/>
