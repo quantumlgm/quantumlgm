@@ -2,14 +2,17 @@
   <img src="https://raw.githubusercontent.com/quantumlgm/quantumlgm/main/assets/welcome-banner.gif" width="100%" alt="Welcome" />
 </div>
 
-### <div align="center"><b>Привет 👋</b></div>  
+<h3 align="center"><b>Hi, I'm Ruslan</b></h3>
 
-<div align="center">Я начинающий разработчик с фокусом на backend.<br/>
-Свой путь в программировании я начал с изучения веб-технологий - освоил HTML, CSS, Tailwind CSS.<br/>
-После создания первых сайтов увлёкся backend-разработкой: выучил JavaScript, Git, Node.js, PostgreSQL и начал разрабатывать Telegram-бота на Grammy.js. Сейчас я стремлюсь углублять свои знания в backend-разработке, изучать новые технологии и заниматься созданием новых проектов.</div>  
+<div align="center">
+  Backend Developer | First-year student at Ushakov Maritime College (Novorossiysk)<br/>
+  I focus on building the server-side logic of applications. My approach is rooted in flexibility: I don't limit myself to a single stack and enjoy mastering new tools whenever they help solve problems more effectively.<br/>
+  For me, development is primarily about logic and constant growth. Programming has become a core part of my life. I value hands-on learning and remain consistently open to evolving technologies.
+</div>
+
 <br/>
 
-<h2 align="center">🛠 Мой стек технологий</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
   <br/>
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
@@ -20,6 +23,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
   &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
@@ -28,19 +33,19 @@
   <br/><br/>
 </div>
 
-<h2 align="center">📊 Статистика моего GitHub</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumlgm&theme=dracula" alt="Статистика" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantumlgm&theme=dracula&exclude={exclude}" alt="Топ языки" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumlgm&theme=dracula" alt="Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantumlgm&theme=dracula" alt="Top Languages" />
   </div>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumlgm&theme=dracula" alt="Детали профиля"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumlgm&theme=dracula" alt="Profile Details"/>
 </div>
 
 <br/>
 
-<h2 align="center">📫 Связь со мной</h2>
+<h2 align="center">📫 Connect with me</h2>
 <div align="center">
   <a href="https://github.com/quantumlgm" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;"/>
@@ -52,5 +57,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 5px;"/>
   </a>
 </div>
-
-<br/>
