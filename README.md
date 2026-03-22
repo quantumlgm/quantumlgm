@@ -29,6 +29,13 @@
   <br/><br/>
 </div>
 
+<h2 align="center">🥋 Codewars</h2>
+<p align="center">
+    <a href="https://www.codewars.com/users/quantumlgm" target="_blank">
+      <img src="https://github.r2v.ch/codewars?user=quantumlgm" alt="Codewars Profile" />
+    </a>
+</p>
+
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
