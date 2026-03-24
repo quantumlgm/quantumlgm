@@ -1,7 +1,7 @@
 <h3 align="center"><b>Hi, I'm Ruslan</b></h3>
 
 <div align="center">
-  Backend Developer | Backend Developer | First-year student at Transport College, Ushakov Maritime State University (Novorossiysk) <br/>
+  Backend Developer | First-year student at Transport College, Ushakov Maritime State University (Novorossiysk) <br/>
   I focus on building the server-side logic of applications. My approach is rooted in flexibility: I don't limit myself to a single stack and enjoy mastering new tools whenever they help solve problems more effectively.<br/>
   For me, development is primarily about logic and constant growth. Programming has become a core part of my life. I value hands-on learning and remain consistently open to evolving technologies.
 </div>
