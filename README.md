@@ -23,8 +23,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
