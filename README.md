@@ -28,8 +28,11 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="PostgreSQL" />
   <br/><br/>
 </div>
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
