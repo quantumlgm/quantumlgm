@@ -30,6 +30,8 @@
   <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" />
    &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="PostgreSQL" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Redis" />
   <br/><br/>
 </div>
 
