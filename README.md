@@ -17,6 +17,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
   &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
@@ -26,8 +28,6 @@
   <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" />
    &nbsp;&nbsp;&nbsp;
