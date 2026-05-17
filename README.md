@@ -19,6 +19,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
   &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI" />
