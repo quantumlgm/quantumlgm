@@ -1,5 +1,5 @@
-  <img src="./assets/github-banner.png" alt="Ruslan - Backend Developer Banner" width="100%" style="max-width: 800px; margin-bottom: 15px;" />  
-  
+
+<h1 align="center">Hi there 👋 I'm Ruslan</h1>
   <div align="center">
     First-year student at Transport College, Ushakov Maritime State University (Novorossiysk) <br/>
     I focus on building the server-side logic of applications. My approach is rooted in flexibility: I don't limit myself to a single stack and enjoy mastering new tools whenever they help solve problems more effectively.<br/>
@@ -10,19 +10,6 @@
   
   <h2 align="center">🛠 Tech Stack</h2>
   <div align="center">
-    <br/>
-    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
-    &nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
     &nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI" />
