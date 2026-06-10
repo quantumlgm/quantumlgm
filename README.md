@@ -1,6 +1,8 @@
-<img src="./assets/imessage(1).png" alt="iMessage" aligin="center"/>
-<img src="./assets/reply-icon.png" alt="Reply" aligin="center" width=650/>
-  
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="./assets/imessage.png" alt="iMessage" width="650" />
+  <img src="./assets/reply-icon.png" alt="Reply" width="650" />  
+</div>
+
   <h2 align="center">🛠 Tech Stack</h2>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
