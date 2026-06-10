@@ -1,12 +1,5 @@
-
-<h1 align="center">Hi there 👋 I'm Ruslan</h1>
-  <div align="center">
-    First-year student at Transport College, Ushakov Maritime State University (Novorossiysk) <br/>
-    I focus on building the server-side logic of applications. My approach is rooted in flexibility: I don't limit myself to a single stack and enjoy mastering new tools whenever they help solve problems more effectively.<br/>
-    For me, development is primarily about logic and constant growth. Programming has become a core part of my life. I value hands-on learning and remain consistently open to evolving technologies.
-  </div>
-  
-  <br/>
+<img src="./assets/imessage(1).png" alt="iMessage" aligin="center"/>
+<img src="./assets/reply-icon.png" alt="Reply" aligin="center" width=650/>
   
   <h2 align="center">🛠 Tech Stack</h2>
   <div align="center">
@@ -28,11 +21,11 @@
   <h2 align="center">📊 GitHub Stats</h2>
   <div align="center">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumlgm&theme=github_dark" alt="Stats" />
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantumlgm&theme=github_dark" alt="Top Languages" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumlgm&theme=monokai" alt="Stats" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantumlgm&theme=monokai" alt="Top Languages" />
     </div>
     <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumlgm&theme=github_dark" alt="Profile Details"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumlgm&theme=monokai" alt="Profile Details"/>
   </div>
   
   <br/>
