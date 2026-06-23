@@ -1,6 +1,5 @@
 
 <img src="./assets/imessage.png" alt="iMessage" width="650" align="right"/>
-<img src="./assets/reply-icon.png" alt="Reply" width="650" />  
 
   <h2 align="center">🛠 Tech Stack</h2>
   <div align="center">
