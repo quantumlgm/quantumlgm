@@ -1,21 +1,21 @@
-
 <img src="./assets/imessage.png" alt="iMessage" width="650" align="right"/>
 
-  <h2 align="center">🛠 Tech Stack</h2>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" />
-     &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-     &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" />
-    <br/><br/>
-  </div>
+<br clear="right" />
+
+<h2 align="center">🛠 Tech Stack</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" />
+</div>
   
   
   <h2 align="center">📊 GitHub Stats</h2>
