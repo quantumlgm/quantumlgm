@@ -29,11 +29,11 @@
   <h2 align="center">📊 GitHub Stats</h2>
   <div align="center">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumlgm&theme=monokai" alt="Stats" />
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantumlgm&theme=monokai" alt="Top Languages" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumlgm&theme=github" alt="Stats" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantumlgm&theme=github" alt="Top Languages" />
     </div>
     <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumlgm&theme=monokai" alt="Profile Details"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumlgm&theme=github" alt="Profile Details"/>
   </div>
   
   <br/>
