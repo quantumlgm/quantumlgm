@@ -24,6 +24,11 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" />
 </div>
+
+<h3 align="center">🌱 Familiar With </h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" height="40" alt="Frontend Stack" />
+</div>
   
   
   <h2 align="center">📊 GitHub Stats</h2>
