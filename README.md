@@ -31,15 +31,32 @@
 </div>
   
   
-  <h2 align="center">📊 GitHub Stats</h2>
-  <div align="center">
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumlgm&theme=github" alt="Stats" />
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantumlgm&theme=github" alt="Top Languages" />
-    </div>
-    <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumlgm&theme=github" alt="Profile Details"/>
-  </div>
+  
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=quantumlgm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="GitHub Stats" 
+    height="170" 
+  />
+  &nbsp;  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantumlgm&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" 
+    alt="Top Languages" 
+    height="170" 
+  />
+</div>
+
+<br/>
+
+<div align="center">  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=quantumlgm&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+    height="170" 
+  />
+</div>
   
   <br/>
   
