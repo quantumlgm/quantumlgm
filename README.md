@@ -22,6 +22,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
   &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" />
 </div>
 
