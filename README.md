@@ -31,35 +31,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" height="40" alt="Frontend Stack" />
 </div>
-  
-  
-  
-<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">  
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=quantumlgm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="GitHub Stats" 
-    height="170" 
-  />
-  &nbsp;  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantumlgm&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" 
-    alt="Top Languages" 
-    height="170" 
-  />
-</div>
-
-<br/>
-
-<div align="center">  
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=quantumlgm&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-    height="170" 
-  />
-</div>
-  
   <br/>
   
   <h2 align="center">🔗 My contacts</h2>
