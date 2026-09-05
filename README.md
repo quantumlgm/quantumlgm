@@ -25,6 +25,9 @@
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="Amazon S3" />
+  &nbsp;&nbsp;&nbsp;
 </div>
 
 <h3 align="center">🌱 Familiar With </h3>
