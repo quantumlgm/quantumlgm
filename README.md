@@ -28,6 +28,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="Amazon S3" />
   &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="50" alt="Amazon S3" />
+  &nbsp;&nbsp;&nbsp;
 </div>
 
 <h3 align="center">🌱 Familiar With </h3>
